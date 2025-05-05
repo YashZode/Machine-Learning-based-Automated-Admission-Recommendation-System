@@ -1,0 +1,34 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+.venv/
+*.env
+
+# IDE/editor configs
+.vscode/
+*.code-workspace
+
+# Data files & large outputs
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.json
+uploads/
+*.pdf
+
+# Checkpoints and outputs
+*.h5
+*.pkl
+*.joblib
+
+# Ignore test output or local scripts
+test_*.py
+Execution steps
+eda_correlation.png
+
+# Azure local emulator blobs
+_azurite_db_blob__*.json

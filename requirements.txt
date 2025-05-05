@@ -1,0 +1,11 @@
+flask
+pytesseract
+transformers
+torch
+textstat
+scikit-learn
+joblib
+pdf2image
+pillow
+PyMuPDF
+tensorflow
